@@ -9,7 +9,7 @@
 - elokeszitjuk a kommitolásra (beindexelődnek-stage):
     > git add
 - Username, email ellenőrzése:
-    >git config user.name
+    >git config user.name 
 
     > git config user.email
 - létrehozzuk a legújabb verziót, 
